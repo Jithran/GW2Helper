@@ -1,0 +1,9 @@
+# git ingore file
+.svn
+.idea
+.vagrant
+.documents
+**/*.thumb
+**/*.png
+package-lock.json
+node_modules
